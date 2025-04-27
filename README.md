@@ -18,6 +18,9 @@ The primary business questions are:
 * What was the greatest increase in profits over the entire period, including the date and amount?
 * What was the greatest decrease in profits over the entire period, including the date and time?
 
+## **Technology Used**
+Python
+
 ## **Prerequisites**
 * Python 3.x installed.
 * The budget_data.csv dataset, which includes two columns:
