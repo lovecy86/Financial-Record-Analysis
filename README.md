@@ -1,7 +1,9 @@
 # **Financial Records Analysis**
 
 [Resources](https://github.com/lovecy86/Financial-Record-Analysis/blob/main/PyBank/Resources/budget_data.csv)
+
 [Financial Record Analysis Script](https://github.com/lovecy86/Financial-Record-Analysis/blob/main/PyBank/main.py)
+
 [Result](https://github.com/lovecy86/Financial-Record-Analysis/blob/main/PyBank/analysis/budget_analysis.txt)
 
 ## **Overview**
@@ -23,4 +25,4 @@ A Python script is created that analyzes the records to calculate each of the fo
     * The greatest decrease in profits (date and amount) over the entire period
 
 ## **Result**
-![Result](analysis.png)
+![Result](PyBank/analysis.png)
